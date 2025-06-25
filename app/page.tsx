@@ -63,7 +63,7 @@ export default function HomePage() {
           <div className="max-w-4xl mx-auto text-center">
             <Badge className="mb-6 bg-emerald-100 text-emerald-800 hover:bg-emerald-100">Early Stage Startup</Badge>
             <h1 className="text-4xl md:text-6xl font-bold text-white mb-6">
-              Building the Future of <span className="text-emerald-400">Energy Infrastructure Protection</span>
+              Building the Future of <span className="text-emerald-400">Energy Infrastructure and Environment Protection</span>
             </h1>
             <p className="text-xl text-gray-200 mb-8 max-w-3xl mx-auto">
               KraftGene AI is developing innovative artificial intelligence solutions to integrate environmental threat
